@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @MastArnold
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning AngularJS & Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
-- mail : arnoldkienou@gmail.com
 
-<!---
-MastArnold/MastArnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a full stack developer with more 4 years in 
+development and production. i like to learn about anything and it is my worst fault... no i'm joking. my worst fault is my sense of humor.
+
+
+## 🛠 Skills
+- Prog Language : Javascript, Python, JAVA, Kotlin, PHP, HTML(it's not a prog language i know), CSS (i'm getting deeper)...
+- Frameworks : Angular, Odoo, NodeJS
+
+
+## Others
+
+🧠 I'm currently learning how to not disperse myself
+
+⚡️ Fun fact, you won't find a fun fact here
