@@ -5,12 +5,14 @@ development and production. i like to learn about anything and it is my worst fa
 
 
 ## 🛠 Skills
-- Prog Language : Javascript, Python, JAVA, Kotlin, PHP, HTML(it's not a prog language, i know), CSS (i'm getting deeper)...
+- Prog Language :
+    - Javascript, Kotlin (Android), HTML(it's not a prog language, i know), CSS (i'm getting deeper)...
+    - PHP, JAVA, Python
 - Frameworks : Angular, Odoo, NodeJS
 
 
 ## Others
 
-🧠 I'm currently learning how to not disperse myself
+🧠 I'm currently learning Laravel
 
 ⚡️ Fun fact, you won't find a fun fact here
